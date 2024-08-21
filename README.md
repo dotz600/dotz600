@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate software developer from Israel</h3>
+<h3 align="center">A junior software developer from Israel</h3>
 
-- ⚡ Fun fact **In my free time, I enjoy solving problems on LeetCode.**
+- ⚡ Feel free to look at my 2 large projects written in Java and C#
+- ⚡ Always working on the next one—currently developing a "job finder" app in Python.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
